@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(80, 34, 30);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 80vh;
+    color: rgb(68, 16, 16);
+}
+
+.pw-container{
+    background-color:rgb(25, 132, 194);
+    width: 500px;
+    
+    padding: 0.5rem;
+
+}
+
+#pw{
+    width: 99%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.copy-button{
+    background-color: rgb(253, 138, 7);
+    font-weight: bold;
+}
+
+.form-control{
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.generate{
+    display:block;
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: rgb(253, 138, 7);
+    margin-top: 5px;
+    
+}
+
+
+
